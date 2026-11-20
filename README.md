@@ -7,6 +7,8 @@
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-4-38bdf8?style=flat-square)
 ![Commerce](https://img.shields.io/badge/Commerce-REST%20API-0f766e?style=flat-square)
 
+**🚀 Live demo:** [cartly-self.vercel.app](https://cartly-self.vercel.app)
+
 ---
 
 ## ✨ What it does
